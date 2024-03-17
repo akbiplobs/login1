@@ -1,2 +1,2 @@
 # login1
-https://akbiplobsa.github.io/login1/
+https://akbiplobs.github.io/login1/
